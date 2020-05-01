@@ -1,0 +1,66 @@
+.desktopScreenNavbar,.mobileScreenNavbar,.mobileb,.navb,nav ul ul{background-color:#fff}#lb,#lm,#lt{background:#000}#sideTitle{color:#fff}aside{color:#373737}#container header h1,#wrapper #titlelogo h1{color:#006}a.social,a.social1{color:#fff!important}a.social1:hover,a.social:hover{color:#999!important}#container nav ul li a,#wrapper nav ul li a{color:#000}nav ul li a:hover,nav ul li ul li:hover:after,nav>ul>li#current>a,nav>ul>li#currentAncestor>a,nav>ul>li>ul>li#current>a,nav>ul>li>ul>li#currentAncestor>a,nav>ul>li>ul>li>ul>li#current>a{color:#006}#extraContainer9{color:#fff}#extraContainer9:after{border-bottom-color:#fff}#extraContainer8:after,.album-title:after,.movie-page-title:after{color:#ddd}.thumbnail-caption{color:#373737}.banner-text:after,header nav>ul>li>a#currentAncestor::after,nav ul li a:hover:after,nav ul li:hover:after,nav>ul>li#current:after,nav>ul>li>a#current:after{border-bottom-color:#006}.album-description,.photo-background p,.photo-background p.photo-caption,p.photo-links a,section{color:#373737}#footer{color:#fff}#container h1,#container h2,#container h3,#container h4,#container h5,#container h6,#extraContainer8,#padding .message-text,.album-title,.movie-page-title{color:#373737}#extraContainer2 h1,#extraContainer2 h2,#extraContainer2 h3,#extraContainer2 h4,#extraContainer2 h5,#extraContainer2 h6{color:#373737}#extraContainer3 h1,#extraContainer3 h2,#extraContainer3 h3,#extraContainer3 h4,#extraContainer3 h5,#extraContainer3 h6{color:#373737}#extraContainer4 h1,#extraContainer4 h2,#extraContainer4 h3,#extraContainer4 h4,#extraContainer4 h5,#extraContainer4 h6{color:#373737}#extraContainer5 h1,#extraContainer5 h2,#extraContainer5 h3,#extraContainer5 h4,#extraContainer5 h5,#extraContainer5 h6{color:#373737}#extraContainer6 h1,#extraContainer6 h2,#extraContainer6 h3,#extraContainer6 h4,#extraContainer6 h5,#extraContainer6 h6{color:#fff}#container,.photo-background,aside,html,section #padding{background-color:#fff}footer{background-color:#006}#container a,#footer a{color:#f60}#extraContainer7 a,#extraContainer8 a{color:#f60}#container a:hover,#footer a:hover{color:#909090}#extraContainer2{background-color:#ddd}#extraContainer3{background-color:#ccc}#extraContainer4{background-color:#bbb}#extraContainer5{background-color:#aaa}#extraContainer6{background-color:#999}.blog-entry{border-bottom-color:#ddd}#blog-categories{border-top-color:#ddd}.movie-thumbnail-frame,.thumbnail-frame{border-color:#ddd}.form-input-field{background:#333}.form-input-button{background:#eee}form div label{color:#373737}.form-input-field{color:#eee}.form-input-button{color:#eee}@media only screen and (max-width:960px){nav{background-color:#fff}}.desktopScreenNavbar,.mobileScreenNavbar,.mobileb,.navb,nav ul ul{background-color:#fff}#lb,#lm,#lt{background:#000}#sideTitle{color:#fff}aside{color:#373737}#container header h1,#wrapper #titlelogo h1{color:#006}a.social,a.social1{color:#fff!important}a.social1:hover,a.social:hover{color:#999!important}#container nav ul li a,#wrapper nav ul li a{color:#000}nav ul li a:hover,nav ul li ul li:hover:after,nav>ul>li#current>a,nav>ul>li#currentAncestor>a,nav>ul>li>ul>li#current>a,nav>ul>li>ul>li#currentAncestor>a,nav>ul>li>ul>li>ul>li#current>a{color:#006}#extraContainer9{color:#fff}#extraContainer9:after{border-bottom-color:#fff}#extraContainer8:after,.album-title:after,.movie-page-title:after{color:#ddd}.thumbnail-caption{color:#373737}.banner-text:after,header nav>ul>li>a#currentAncestor::after,nav ul li a:hover:after,nav ul li:hover:after,nav>ul>li#current:after,nav>ul>li>a#current:after{border-bottom-color:#006}.album-description,.photo-background p,.photo-background p.photo-caption,p.photo-links a,section{color:#373737}#footer{color:#fff}#container h1,#container h2,#container h3,#container h4,#container h5,#container h6,#extraContainer8,#padding .message-text,.album-title,.movie-page-title{color:#373737}#extraContainer2 h1,#extraContainer2 h2,#extraContainer2 h3,#extraContainer2 h4,#extraContainer2 h5,#extraContainer2 h6{color:#373737}#extraContainer3 h1,#extraContainer3 h2,#extraContainer3 h3,#extraContainer3 h4,#extraContainer3 h5,#extraContainer3 h6{color:#373737}#extraContainer4 h1,#extraContainer4 h2,#extraContainer4 h3,#extraContainer4 h4,#extraContainer4 h5,#extraContainer4 h6{color:#373737}#extraContainer5 h1,#extraContainer5 h2,#extraContainer5 h3,#extraContainer5 h4,#extraContainer5 h5,#extraContainer5 h6{color:#373737}#extraContainer6 h1,#extraContainer6 h2,#extraContainer6 h3,#extraContainer6 h4,#extraContainer6 h5,#extraContainer6 h6{color:#fff}#container,.photo-background,aside,html,section #padding{background-color:#fff}footer{background-color:#006}#container a,#footer a{color:#f60}#extraContainer7 a,#extraContainer8 a{color:#f60}#container a:hover,#footer a:hover{color:#909090}#extraContainer2{background-color:#ddd}#extraContainer3{background-color:#ccc}#extraContainer4{background-color:#bbb}#extraContainer5{background-color:#aaa}#extraContainer6{background-color:#999}.blog-entry{border-bottom-color:#ddd}#blog-categories{border-top-color:#ddd}.movie-thumbnail-frame,.thumbnail-frame{border-color:#ddd}.form-input-field{background:#ccc}.form-input-button{background:#999}form div label{color:#373737}.form-input-field{color:#333}.form-input-button{color:#006}@media only screen and (max-width:960px){nav{background-color:#fff}}
+body {
+	font:16px Arial, Verdana, Helvetica, sans-serif;
+}
+h1, h2, h3{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+p{
+	line-height: 21px;
+}
+
+#extraContainer9{
+
+}
+footer #footer{
+	font-size: 13px;
+}
+input{
+
+}
+.centralization{
+	text-align: center;
+}
+form  label {
+	text-transform: uppercase;
+	font-size: 12px;
+	color: #373737;
+}
+.message-text2{
+	letter-spacing: 2px;
+	padding-bottom: 20px;
+}
+u{
+	font-size: 13px;
+	font-weight: bold;
+}
+.contact-bottom{
+	margin-top: 50px;
+	font-size: 15px;
+}
+.form-buttons{
+	margin-top: 20px;
+}
+.custom-alert.success{
+	font: 15px Georgia, serif;
+	font-weight: bold;
+	color: #121F46;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+.custom-alert.error{
+	color: #373737;
+	padding-bottom: 20px;
+	font-size: 22px;
+	text-align: left;
+	letter-spacing: 2px;
+}
+#container h3{
+	font: 17px Arial, Verdana, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #000066;
+	font-weight: bold;
+	margin-bottom: 10px;
+	margin-top: 50px;
+}

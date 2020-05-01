@@ -1,0 +1,9 @@
+Title: Site
+
+----
+
+Google-tag: <script>console.log('add your google analytics code');</script>
+
+----
+
+Facebook-pixel: <script>console.log('add your facebook pixel code');</script>

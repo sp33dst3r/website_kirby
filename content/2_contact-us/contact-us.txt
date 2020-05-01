@@ -1,0 +1,63 @@
+Title: Contact Us
+
+----
+
+Headline: Contact Us
+
+----
+
+Description: this is 'contact us' page
+
+----
+
+Robots: true
+
+----
+
+Company-email: beytiyev@rambler.ru
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>BeMo Academic Consulting Inc.</strong>",
+        "id": "_wayxh0jt9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><u>Toll Free</u></strong>: 1-855-900-BeMo (2366)",
+        "id": "_g1cwi38rd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><u>Email</u></strong>: info@bemoacademicconsulting.com",
+        "id": "_cmnsk1h5i",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Text2:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong><u>Note</u></strong>: If you are having difficulties with our contact us form above, send us an email to info@bemoacademicconsulting.com (copy &amp; paste the email address)",
+        "id": "_i53vsr6au",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Image: - contact-us.png
+
+----
+
+Main-text: 
